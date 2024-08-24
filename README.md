@@ -1,4 +1,4 @@
-# python-challenge-1
+#  Module 3 Challenge
 > Module 3 Challenge for ASU AI Bootcamp
 
 I did this assignment on my own, but there's a high possibility I help others as they experience challenges with their own code
